@@ -53,9 +53,8 @@
 							<li class="uk-visible@s">
 								<a href="#" data-uk-icon="icon:more"></a>
 								<div class="drop-nav uk-dropdown" data-uk-dropdown="mode: click; offset: 20;animation: uk-animation-slide-bottom-small; duration: 150">
-									<h4 class="uk-margin-small-bottom uk-margin-remove-adjacent">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
-									<p class="uk-text-small uk-text-muted">Excepteur sint occaecat cupidatat non
-									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+									<h4 class="uk-margin-small-bottom uk-margin-remove-adjacent">Photoshow with random pictures from Lorem Picsum.</h4>
+									<p class="uk-text-small uk-text-muted">Awesome UIKit sidebar with huge button to update account.</p>
 									<hr>
 									<a href="#" class="uk-button uk-button-primary uk-width-1-1">UPDATE YOUR ACCOUNT</a>
 									<hr>

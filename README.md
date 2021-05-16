@@ -1,4 +1,10 @@
-# portfolio-two
+# vue-nuxt-photoshow-portfolio
+
+Photoshow using Vue UIKit Cards, HARD CODED, not dynamic
+
+# todo
+
+Build a dynamic version, or part of, with the same styles.
 
 ## Build Setup
 
